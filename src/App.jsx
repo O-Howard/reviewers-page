@@ -30,8 +30,8 @@ function App() {
         </div>
         <div className='right'>
           <div className='google'>
-            <div>
-              <img src={google} alt="google icon" />
+            <div className='stars'>
+              <img className='logo' src={google} alt="google icon" />
               <img src={starY} alt="full star" />
               <img src={starY} alt="full star" />
               <img src={starY} alt="full star" />
@@ -42,8 +42,8 @@ function App() {
             <p className='text'>The checklist ensures that the review process is thorough</p>
           </div>
           <div className='meta'>
-            <div>
-              <img src={meta} alt="meta icon" />
+            <div className='stars'>
+              <img className='logo' src={meta} alt="meta icon" />
               <img src={starY} alt="full star" />
               <img src={starY} alt="full star" />
               <img src={starY} alt="full star" />
