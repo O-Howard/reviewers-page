@@ -62,7 +62,9 @@ h1{
 
 .stars{
   display: flex;
+  align-items: center;
 }
+
 
 .logo{
   margin-right: 16px;
