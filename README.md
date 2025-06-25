@@ -16,7 +16,7 @@ A clean and responsive React component showcasing a reviewers/testimonials secti
 ## Demo
 
 See it in action:  
-Live demo: [https://reviewers-page-oh.netlify.app]([https://reviewers-page-oh.netlify.app](https://reviewers-page.netlify.app/))
+Live demo: [https://reviewers-page-oh.netlify.app](https://reviewers-page-oh.netlify.app)
 
 ---
 
